@@ -6,3 +6,8 @@ marks = {
 print(marks, type(marks))
 print(marks["al amin"])
 print(marks["jhon"])
+
+
+print(marks.items())
+marks.update({"al amin":99})
+print(marks)
