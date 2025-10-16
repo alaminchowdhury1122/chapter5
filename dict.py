@@ -5,3 +5,4 @@ marks = {
 
 print(marks, type(marks))
 print(marks["al amin"])
+print(marks["jhon"])
